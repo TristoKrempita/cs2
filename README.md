@@ -1,0 +1,1 @@
+Path for keybinds: `C:\Program Files (x86)\Steam\userdata\111934044\730\remote`
